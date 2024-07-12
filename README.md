@@ -1,2 +1,18 @@
-# TwitchAIO
-A discord bot for Twitch Followers, Twitch Spam &amp; more
+## TwitchAIO
+A discord bot that allows its users to give out free Twitch Followers, Spams & more!
+
+# Setup
+
+### Clone the repository.
+```
+git clone https://github.com/quehole/TwitchAIO.git
+```
+
+### Configure the bot.
+- Add your Tokens in tokens.txt
+- Configure the bot in settings.json
+
+### Run the bot 
+```
+node index.js
+```
