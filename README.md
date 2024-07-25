@@ -33,8 +33,8 @@ InstagramAIO is a Discord bot designed to interact with Twitch channels and prov
    ```json
    {
      "prefix": "!",
-     "chatchannel": "general",
-     "genchannel": "welcome",
+     "chatchannel": "channel id",
+     "genchannel": "channel id",
      "token": "YOUR_DISCORD_BOT_TOKEN"
    }
    ```
