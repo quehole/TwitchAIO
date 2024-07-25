@@ -1,6 +1,6 @@
-# InstagramAIO
+# TwitchAIO
 
-InstagramAIO is a Discord bot designed to interact with Twitch channels and provide various functionalities, including adding Twitch followers, managing Discord channels, and more. This bot is built using Node.js and the Discord.js library.
+TwitchAIO is a Discord bot designed to interact with Twitch channels and provide various functionalities, including adding Twitch followers, managing Discord channels, and more. This bot is built using Node.js and the Discord.js library.
 
 ## Features
 
@@ -14,8 +14,8 @@ InstagramAIO is a Discord bot designed to interact with Twitch channels and prov
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/quehole/InstagramAIO.git
-   cd InstagramAIO
+   git clone https://github.com/quehole/Twitch AIO.git
+   cd TwitchAIO
    ```
 
 2. **Install Dependencies**
